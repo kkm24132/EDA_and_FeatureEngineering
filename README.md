@@ -20,3 +20,4 @@
 
 - [EDA from scratch in Python](https://www.analyticsvidhya.com/blog/2020/08/exploratory-data-analysiseda-from-scratch-in-python/)
 - [An efficient way of performing EDA](https://www.analyticsvidhya.com/blog/2020/11/an-efficient-way-of-performing-eda-hypothesis-generation/)
+- [Data Visualization principles in storytelling journey](https://medium.com/@mishra.kamal/essence-and-principles-of-data-visualization-in-storytelling-journey-b58bb9e1f3c4)
