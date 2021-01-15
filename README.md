@@ -15,3 +15,8 @@
 - Data normalization and Scaling (for numeric variables)
 - Encoding categorical variables (for dummy variables)
 - Bivariate and multivariate analysis
+
+#### References
+
+- ![EDA from scratch in Python](https://www.analyticsvidhya.com/blog/2020/08/exploratory-data-analysiseda-from-scratch-in-python/)
+- ![An efficient way of performing EDA](https://www.analyticsvidhya.com/blog/2020/11/an-efficient-way-of-performing-eda-hypothesis-generation/)
