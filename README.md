@@ -7,4 +7,11 @@
 - Key part of Data Understanding process in the CRISP-DM
 - What questions will be answered and how? This will help understand data better, pattern better, correlation between different variables/features better etc.
 
+#### Key focus tasks
 
+- Handling missing values or Missing value treatment
+- Handling or removing duplicates
+- Outlier treatment
+- Data normalization and Scaling (for numeric variables)
+- Encoding categorical variables (for dummy variables)
+- Bivariate and multivariate analysis
