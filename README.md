@@ -1,4 +1,10 @@
 # Exploratory Data Analysis (EDA)
+- Why is EDA important?
+- Tools
+- Tasks
+- Python Libraries
+- References
+
 
 ## Why is EDA important?
 - Key part of Data Understanding process in the CRISP-DM methodology
@@ -15,7 +21,7 @@
 
 and so on..
 
-## Key focus tasks
+## Tasks
 - Handling missing values or Missing value treatment
 - Handling or removing duplicates
 - Outlier treatment
@@ -23,7 +29,7 @@ and so on..
 - Encoding categorical variables (for dummy variables)
 - Bivariate and multivariate analysis
 
-## Python Libraries used for DV / EDA
+## Python Libraries
 - Matplotlib : 2D plotting library
 - Seaborn : Statistical data visualization using matplotlib
 - Plotly
