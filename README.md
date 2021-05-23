@@ -1,9 +1,10 @@
 # Exploratory Data Analysis (EDA)
 - [Why is EDA important?](https://github.com/kkm24132/ExploratoryDataAnalysis/blob/master/README.md#why-is-eda-important)
-- Tools
-- Tasks
-- Python Libraries
-- References
+- [Tools](https://github.com/kkm24132/ExploratoryDataAnalysis/blob/master/README.md#tools)
+- [Tasks](https://github.com/kkm24132/ExploratoryDataAnalysis/blob/master/README.md#tasks)
+- [Python Libraries](https://github.com/kkm24132/ExploratoryDataAnalysis/blob/master/README.md#python-libraries)
+- [References](https://github.com/kkm24132/ExploratoryDataAnalysis/blob/master/README.md#references)
+
 
 
 ## Why is EDA important?
