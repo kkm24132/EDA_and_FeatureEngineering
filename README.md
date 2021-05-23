@@ -1,5 +1,5 @@
 # Exploratory Data Analysis (EDA)
-- Why is EDA important?
+- [Why is EDA important?](https://github.com/kkm24132/ExploratoryDataAnalysis/blob/master/README.md#why-is-eda-important)
 - Tools
 - Tasks
 - Python Libraries
