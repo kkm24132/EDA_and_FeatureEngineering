@@ -23,12 +23,15 @@
 and so on..
 
 ## Tasks
-- Handling missing values or Missing value treatment
+- Understand data distribution
+- Identify missing values and perform treatment
 - Handling or removing duplicates
 - Outlier treatment
 - Data normalization and Scaling (for numeric variables)
 - Encoding categorical variables (for dummy variables)
 - Bivariate and multivariate analysis
+- Feature transformation
+- Feature creation / adding new features
 
 ## Python Libraries
 - Matplotlib : 2D plotting library
@@ -40,6 +43,7 @@ and so on..
 - bqplot : Interactive plotting library for Jupyter Notebook
 - Dash : Built on top of Flask, React and Plotly, for analytical web applications
 - VisPy : High-performance scientific visualization based on OpenGL
+- Pandas_Profiling : Great way to profile and summarize the data in Python Pandas dataframe
 
 This is non exhaustive list. Just to give you some key libraries / packages information that we should be familiar with while using.
 
