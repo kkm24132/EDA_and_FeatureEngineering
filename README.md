@@ -24,7 +24,7 @@ and so on..
 
 ## Tasks
 - Understand data distribution
-- Identify missing values and perform treatment
+- [Identify missing values and perform treatment](https://github.com/kkm24132/ExploratoryDataAnalysis/tree/master/01_MissingValueTreatment)
 - Handling or removing duplicates
 - Outlier treatment
 - Data normalization and Scaling (for numeric variables)
