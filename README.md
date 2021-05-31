@@ -26,7 +26,7 @@ and so on..
 - Understand data distribution
 - [Identify missing values and perform treatment](https://github.com/kkm24132/ExploratoryDataAnalysis/tree/master/01_MissingValueTreatment)
 - Handling or removing duplicates
-- Outlier treatment
+- [Outlier treatment](https://github.com/kkm24132/ExploratoryDataAnalysis/tree/master/02_OutlierTreatment)
 - Data normalization and Scaling (for numeric variables)
 - Encoding categorical variables (for dummy variables)
 - Bivariate and multivariate analysis
