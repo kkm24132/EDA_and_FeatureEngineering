@@ -47,6 +47,14 @@ and so on..
 
 This is non exhaustive list. Just to give you some key libraries / packages information that we should be familiar with while using.
 
+## AutoEDA
+
+- Pandas Profiling : https://pypi.org/project/pandas-profiling/
+- SweetViz : https://pypi.org/project/sweetviz/
+- AutoViz : https://github.com/AutoViML/AutoViz
+
+
+
 ## References
 - [EDA from scratch in Python](https://www.analyticsvidhya.com/blog/2020/08/exploratory-data-analysiseda-from-scratch-in-python/)
 - [An efficient way of performing EDA](https://www.analyticsvidhya.com/blog/2020/11/an-efficient-way-of-performing-eda-hypothesis-generation/)
