@@ -52,7 +52,7 @@ This is non exhaustive list. Just to give you some key libraries / packages info
 - Pandas Profiling : https://pypi.org/project/pandas-profiling/
 - SweetViz : https://pypi.org/project/sweetviz/
 - AutoViz : https://github.com/AutoViML/AutoViz
-
+- More details can be found [here](https://github.com/Accelerate-AI/AutoEDA)
 
 
 ## References
