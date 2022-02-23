@@ -61,3 +61,4 @@ This is non exhaustive list. Just to give you some key libraries / packages info
 - [Data Visualization principles in storytelling journey](https://medium.com/@mishra.kamal/essence-and-principles-of-data-visualization-in-storytelling-journey-b58bb9e1f3c4)
 - [Charticulator](https://charticulator.com/index.html)
 - [Preprocessing using sklearn](https://scikit-learn.org/stable/modules/preprocessing.html#)
+- Course reference from udemy - https://www.udemy.com/course/exploratory-data-analysis-with-pandas-and-python-3x/
